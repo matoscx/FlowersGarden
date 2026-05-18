@@ -16,7 +16,7 @@ Para correr este jardín en tu computadora, vas a necesitar:
 * Una cámara web 
 * El archivo de configuración de MediaPipe: `hand_landmarker.task`
 
-### Instala las librerías necesarias:
+### Instalar las librerías necesarias:
 Ejecuta este comando en tu terminal para instalar las dependencias principales:
 
 ```bash
